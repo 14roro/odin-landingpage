@@ -40,3 +40,8 @@ a {
     justify-content: center;
     align-items: center;
 }
+
+h1 {
+    font-size: 48px;
+    font-weight: 700;
+}
