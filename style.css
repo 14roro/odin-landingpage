@@ -41,6 +41,7 @@ a {
     align-items: center;
     max-width: 1000px;
     margin: auto;
+    padding: 64px 16px;
 }
 
 h1 {
