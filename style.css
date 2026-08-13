@@ -67,6 +67,11 @@ button {
     padding: 8px 32px;
 }
 
+.s1-left {
+    flex: 1;
+}
+
 .s1-image {
     background-color: grey;
+    flex: 1;
 }
