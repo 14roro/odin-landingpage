@@ -9,4 +9,10 @@
 .header {
     display: flex;
     justify-content: space-between;
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+a {
+    color: #F9FAF8;
 }
