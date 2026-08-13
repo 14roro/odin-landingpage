@@ -3,6 +3,11 @@ body {
     font-family: Roboto;
 }
 
+.section-1 {
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
 .links {
     list-style-type: none;
     margin: 0;
@@ -15,8 +20,6 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #1F2937;
-    color: #F9FAF8;
     padding: 16px;
     max-width: 1000px;
     margin :auto;
