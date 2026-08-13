@@ -75,4 +75,5 @@ button {
 .s1-image {
     background-color: grey;
     flex: 1;
+    text-align: center;
 }
