@@ -38,7 +38,7 @@ a {
 .s1-content {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: stretch;
     gap: 48px;
     max-width: 1000px;
     margin: auto;
@@ -76,5 +76,4 @@ button {
     background-color: grey;
     flex: 1;
     text-align: center;
-    padding: 96px 0;
 }
