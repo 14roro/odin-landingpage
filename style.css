@@ -39,10 +39,10 @@ a {
     display: flex;
     justify-content: center;
     align-items: stretch;
-    gap: 48px;
+    gap: 64px;
     max-width: 1000px;
     margin: auto;
-    padding: 64px 16px;
+    padding: 128px 16px;
 }
 
 h1 {
@@ -75,5 +75,7 @@ button {
 .s1-image {
     background-color: grey;
     flex: 1;
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
