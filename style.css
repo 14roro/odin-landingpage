@@ -88,22 +88,25 @@ button {
     flex-direction: column;
     align-items: center;
     color: #1F2937;
-    padding: 48px 16px 96px 16px
+    padding: 48px 16px 96px 16px;
+    text-align: center;
 }
 
 .s2-info {
     display: flex;
-    max-width: 150px;
     gap: 48px;
-    justify-content: center;
-    text-align: center;
+}
+
+.s2-card {
+    max-width: 175px;
 }
 
 .s2-img {
     border: 4px solid rgb(109, 109, 255);
-    height: 150px;
-    width: 150px;
+    height: 175px;
+    width: 175px;
     border-radius: 20px;
+    box-sizing: border-box;
 }
 
 h2 {
