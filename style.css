@@ -79,9 +79,24 @@ button {
     justify-content: center;
 }
 
+.s2-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #1F2937;
+}
+
+.s2-info {
+    display: flex;
+    max-width: 150px;
+    gap: 48px;
+    justify-content: center;
+    text-align: center;
+}
+
 .s2-img {
-    border: 5px solid rgb(109, 109, 255);
-    height: 200px;
-    width: 200px;
+    border: 4px solid rgb(109, 109, 255);
+    height: 150px;
+    width: 150px;
     border-radius: 20px;
 }
