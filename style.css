@@ -107,6 +107,7 @@ button {
     width: 175px;
     border-radius: 20px;
     box-sizing: border-box;
+    margin-bottom: 8px;
 }
 
 h2 {
