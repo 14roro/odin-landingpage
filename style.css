@@ -78,3 +78,10 @@ button {
     align-items: center;
     justify-content: center;
 }
+
+.s2-img {
+    border: 5px solid rgb(109, 109, 255);
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}
