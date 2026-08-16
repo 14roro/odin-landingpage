@@ -145,3 +145,12 @@ h2 {
     font-weight: 700;
     text-align: right;   
 }
+
+.s4-content {
+    background-color: #3882F6;
+    border-radius: 10px;
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
