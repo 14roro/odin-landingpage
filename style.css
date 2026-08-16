@@ -117,10 +117,15 @@ h2 {
 }
 
 .s3 {
+    background-color: #E5E7EB;
+}
+
+.s3-content {
+    max-width: 800px;
+    margin: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #E5E7EB;
 }
 
 .quote,
