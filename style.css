@@ -13,7 +13,6 @@ body, button {
 
 ul {
     list-style-type: none;
-    margin: 0;
     padding: 0;
     display: flex;
     gap: 24px;
@@ -50,13 +49,11 @@ a {
 h1 {
     font-size: 48px;
     font-weight: 900;
-    margin: 0;
 }
 
 p {
     color: #E5E7EB;
     font-size: 18px;
-    margin: 0;
     margin-bottom: 16px;
 }
 
@@ -117,5 +114,4 @@ h2 {
 
 .s2-card p {
     color: #1F2937;
-    margin: 0;
 }
