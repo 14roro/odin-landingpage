@@ -115,3 +115,9 @@ h2 {
 .s2-card p {
     color: #1F2937;
 }
+
+.s3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
