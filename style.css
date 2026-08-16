@@ -125,7 +125,6 @@ h2 {
     margin: auto;
     display: flex;
     flex-direction: column;
-    align-items: center;
 }
 
 .quote,
@@ -142,5 +141,6 @@ h2 {
 
 .author {
     font-size: 24px;
-    font-weight: 700;    
+    font-weight: 700;
+    text-align: right;   
 }
