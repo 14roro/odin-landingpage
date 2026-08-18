@@ -54,6 +54,9 @@ h1 {
 p {
     color: #E5E7EB;
     font-size: 18px;
+}
+
+.s1-left p {
     margin-bottom: 16px;
 }
 
@@ -132,7 +135,6 @@ h2 {
 .quote,
 .author {
     color: #1F2937;
-    margin-bottom: 0;
 }
 
 .quote {
@@ -168,10 +170,6 @@ h3 {
     font-size: 24px;
 }
 
-.s4 p {
-    margin-bottom: 0;
-}
-
 .cta-button {
     border: 2px solid #F9FAF8;
     padding: 6px 30px;
@@ -183,8 +181,4 @@ h3 {
     justify-content: center;
     align-items: center;
     padding: 40px 16px;
-}
-
-.footer p {
-    margin: 0;
 }
