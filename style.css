@@ -126,6 +126,7 @@ h2 {
     margin: auto;
     display: flex;
     flex-direction: column;
+    padding: 0 16px;
 }
 
 .quote,
@@ -148,7 +149,7 @@ h2 {
 }
 
 .s4 {
-    padding: 96px 0;
+    padding: 96px 16px;
 }
 
 .s4-content {
@@ -159,7 +160,7 @@ h2 {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    padding: 48px 0;
+    padding: 48px 16px;
 }
 
 h3 {
@@ -181,7 +182,7 @@ h3 {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 40px 0;
+    padding: 40px 16px;
 }
 
 .footer p {
